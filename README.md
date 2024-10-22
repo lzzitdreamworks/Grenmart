@@ -11,7 +11,7 @@ Grenmart 是一个有机和杂货 Laravel 电子商务平台 PHP 脚本。它有
 演示链接
 Grenmart – 有机和杂货 Laravel 电子商务
 前端演示： https://fresh.it1024.xyz/
-
+[README.md](..%2FFundorex%2FREADME.md)
 超级管理员演示: https://fresh.it1024.xyz/login/admin
 超级管理员登录(私信联系获取)
 用户名： ***
